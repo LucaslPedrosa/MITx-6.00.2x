@@ -1,0 +1,31 @@
+# For questions 1 and 2, consider our previous problem (permutations of 3
+# students in a line).
+#
+# When represented as a tree, each node will have how many children?
+#
+#
+# ans: 2
+#
+#
+# Given two permutations, what is the maximum number of swaps it will take to
+# reach one from the other?
+#
+#
+# ans: 3
+#
+#
+# For questions 3 and 4, consider the general case of our previous problem
+# (permutations of n students in a line). Give your answer in terms of n.
+#
+# When represented as a tree, each node will have how many children?
+#
+#
+# ans: n-1
+#
+#
+# Given two permutations, what is the maximum number of swaps it will take to
+# reach one from the other?
+#
+#
+# ans: (n*(n-1))/2
+#

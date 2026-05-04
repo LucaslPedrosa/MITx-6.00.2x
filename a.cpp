@@ -24,7 +24,6 @@ int main() {
   for (int i = 0; i < SIZE; i++) {
     file << (i * i * i) << '\n';
   }
-
   file.close();
   file.open("data/logarithmicEx.txt");
 
